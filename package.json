@@ -1,7 +1,7 @@
 {
   "name": "ui-drag-thresholds",
   "scope": "ape",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Define ui drag threshold in inches or cm (as opposed to pixels) for consistency across touch devices.",
   "main": "index.js",
   "repository": {
